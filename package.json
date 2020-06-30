@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@bazel/typescript": "1.6.1",
+    "typescript": "3.6.5"
+  }
+}
